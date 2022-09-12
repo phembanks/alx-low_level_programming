@@ -4,14 +4,14 @@
 * main - print the string in the function
 * Description: using the main function
 * this program prints "programming is like multiligual puzzle
-* Return 0
+* Return: 0
 */
 int main(void)
 {
 	char c;
 	int i;
 	long li;
-	long long lli; 
+	long long lli;
 	float f;
 
 	printf("Size of a char: %ld byte(s)\n", sizeof(c));
