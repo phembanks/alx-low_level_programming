@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Betty Style
+ * main - Entry Point
  *
  * Return: Always 0 (Success)
  */
