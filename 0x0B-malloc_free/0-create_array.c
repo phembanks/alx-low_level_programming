@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * create_array - creates an arrray of charts, and 
+ * create_array - creates an arrray of charts, and
  * initializes it with a specific char.
  *@size: size of the array
  *@c: character to insert
